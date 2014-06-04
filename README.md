@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sejarah Telepon Genggam
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -15,3 +16,7 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ grunt server
 ```
+=======
+Sejarah-Telepon-Genggam
+=======================
+>>>>>>> 349ff2e23fe45e14a7a04f08b7ceb3a4b85658ac
