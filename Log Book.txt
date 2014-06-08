@@ -1,0 +1,217 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:W2ST
+Judul Topik: Sejarah Telepon Genggam
+Alamat Github: https://github.com/wanry27/Sejarah-Telepon-Genggam.git
+Alamat Trello: https://trello.com/b/xdlhtbrQ/sejarah-telepon-genggam
+Anggota 1:
+	Nama: WANRY LUMBAN BATU
+	NIM: 121112074
+Anggota 2:
+	Nama: SALOMO FH SIMANJUNTAK
+	NIM: 12111
+Anggota 3:
+	Nama: TOGI ARA LIMBONG
+	NIM: 12111
+Anggota 4:
+	Nama: WILLIAM PRATAMA NAINGGOLAN
+	NIM: 121112511
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+02/6 - 04/6
+Scrummaster: Wanry Lumban Batu (121112074)
+
+Sprint 2:
+04/6 - 07/6
+Scrummaster: Salomo FH Simanjuntak (12111)
+
+Sprint 3:
+07/6 - 09/6 
+Scrummaster: Togiara Limbong (12111)
+
+Sprint 4:
+07/6 - 09/6 
+Scrummaster: William Pratama Nainggolan (121112511)
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+------------------------------------
+
+02/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Kendala Install Bespoke
+2. 
+3. 
+Salomo FH Simanjuntak:
+1. Kendala Install Bespoke
+2.
+3.
+
+Togiara Limbong:
+1. Kendala Install Bespoke
+2.
+3.
+
+William Pratama Nainggola
+1. Kendala Install Bespoke
+2.
+3.
+------------------------------------
+
+03/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Masalah Commit
+2. Masalah Push
+3. 
+Salomo FH Simanjuntak:
+1. Masih Kendala Bespoke
+2.
+3.
+
+Togiara Limbong:
+1. Masih Kendala Bespoke
+2.
+3.
+
+William Pratama Nainggola
+1. Masih Kendala Bespoke
+2.
+3.
+------------------------------------
+
+04/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Berhasil Commit
+2. Buat Commit Percobaan
+3. 
+Salomo FH Simanjuntak:
+1. Kendala Install Bespoke
+2.
+3.
+
+Togiara Limbong:
+1. Kendala Install Bespoke
+2.
+3.
+
+William Pratama Nainggola
+1. Kendala Install Bespoke
+2.
+3.
+------------------------------------
+
+05/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Commit dan Push : Fungsi Dan Fitur
+2. Update Fungsi Dan Fitur.
+3. 
+Salomo FH Simanjuntak:
+1. Kosong
+2.
+3.
+
+Togiara Limbong:
+1. Kosong
+2.
+3.
+
+William Pratama Nainggola
+1. Kosong
+2.
+3.
+------------------------------------
+06/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Jenis Ponsel Berdasarkan Fungsi : Ponsel Bisnis
+2. 
+3. 
+Salomo FH Simanjuntak:
+1. Kendala Push
+2.
+3.
+
+Togiara Limbong:
+1. Kendala Commit dan push
+2.
+3.
+
+William Pratama Nainggola
+1. Jenis Ponsel Berdasarkan Fungsi : Ponsel Fashion 
+2.
+3.
+------------------------------------
+07/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Kendala Install Bespoke
+2. 
+3. 
+Salomo FH Simanjuntak:
+1. Commit dan Push Jenis Ponsel Berdasarkan Fungsi : Ponsel Hiburan
+2. Commit dan Push Jenis Ponsel Berdasarkan Fungsi : Ponsel Standar
+3.
+
+Togiara Limbong:
+1. -
+2.
+3.
+
+William Pratama Nainggola
+1. Melanjutkan Commit
+2.
+3.
+------------------------------------
+
+08/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Commit dan Push Kendala Install Bespoke
+2. 
+3. 
+Salomo FH Simanjuntak:
+1. Commit dan Push Jenis Ponsel Berdasarkan Fungsi : Ponsel Standar
+2.
+3.
+
+Togiara Limbong:
+1. Commit Dan Push  Perkembangan = Generasi 0
+2.
+3.
+
+William Pratama Nainggola
+1. Edit Commit Ponsel Fashion
+2.
+3.
+------------------------------------
+
+
+09/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Memperbaiki Slide Presentasi
+2. Commit Dan Push : Perkembangan = Generasi I
+3. 
+Salomo FH Simanjuntak:
+1. Kosong
+2.
+3.
+
+Togiara Limbong:
+1. Kosong
+2.
+3.
+
+William Pratama Nainggola
+1. Kosong
+2.
+3.
+------------------------------------
