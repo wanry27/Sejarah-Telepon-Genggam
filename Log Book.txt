@@ -215,3 +215,47 @@ William Pratama Nainggola
 2.
 3.
 ------------------------------------
+
+10/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Commit Dan Push : Perkembangan = Generasi III
+2. 
+3. 
+Salomo FH Simanjuntak:
+1. Kosong
+2.
+3.
+
+Togiara Limbong:
+1. Commit Dan Push : Perkembangan = Generasi II
+2.
+3.
+
+William Pratama Nainggola
+1. Kosong
+2.
+3.
+------------------------------------
+
+11/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Fix Slide Error
+2. 
+3. 
+Salomo FH Simanjuntak:
+1. -
+2.
+3.
+
+Togiara Limbong:
+1. -
+2.
+3.
+
+William Pratama Nainggola
+1. -
+2.
+3.
+------------------------------------
