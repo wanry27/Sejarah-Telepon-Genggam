@@ -245,6 +245,28 @@ Wanry Lumban Batu:
 2. 
 3. 
 Salomo FH Simanjuntak:
+1. Commit dan push Generasi IV
+2.
+3.
+
+Togiara Limbong:
+1. Commit dan push Generasi II
+2.
+3.
+
+William Pratama Nainggola
+1. Fix Sedikit yang Error
+2. Commit dan push Cara Kerja Ponsel
+3.
+------------------------------------
+
+12/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Fix Slide Error
+2. 
+3. 
+Salomo FH Simanjuntak:
 1. -
 2.
 3.
@@ -258,4 +280,26 @@ William Pratama Nainggola
 1. -
 2.
 3.
+
 ------------------------------------
+
+13/6
+Daily Scrum
+Wanry Lumban Batu:
+1. Fix Slide gak Berjalan Sesuai Rencana
+2. 
+3. 
+Salomo FH Simanjuntak:
+1. -
+2.
+3.
+
+Togiara Limbong:
+1. -
+2.
+3.
+
+William Pratama Nainggola
+1. -
+2.
+3.
