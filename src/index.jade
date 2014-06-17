@@ -18,6 +18,12 @@ html
       section
         h1 Sejarah Telepon Genggam
         h2
+        
+      section
+        h4 Tim
+        hr
+        img(src="gambar/w2st.png", style="width:300px; height:200px")
+        p (W2ST)
       section
         h2.bullet Anggota Tim:
         ul
@@ -28,7 +34,6 @@ html
       section
         h2 Sejarah
         h3 Penemu sistem telepon genggam adalah Martin Cooper, seorang karyawan Motorola pada tanggal 03 April 1973, walaupun banyak disebut-sebut penemu telepon genggam adalah sebuah tim dari salah satu divisi Motorola dengan model pertama adalah DynaTAC. Ide yang dicetuskan oleh Cooper adalah sebuah alat komunikasi yang kecil dan mudah dibawa bepergian secara fleksibel.
-
       section
         h2 Fungsi dan Fitur
         h3 Selain untuk melakukan dan menerima panggilan telepon:
@@ -66,8 +71,10 @@ html
       section
         h2 Perkembangan
         h4 Generasi 0
-        hr
+        hr 
         h3 Awal penemuan telepon seluler dimulai pada tahun 1921 ketika Departemen Kepolisian Detroit Michigan mencoba menggunakan telepon mobil satu arah. Kemudian, pada tahun 1928 Kepolisian Detroit mulai menggunakan radio komunikasi satu arah regular pada semua mobil patroli dengan frekuensi 2 MHz. pada perkembangan selanjutnya, radio komunikasi berkembang menjadi dua arah.
+        button(title="Gambar", onclick="gambar/Generasi0.jpg")
+
       section
         h4 Generasi I
         hr
@@ -80,6 +87,7 @@ html
       
       section
         h4 Generasi II
+        hr
         h3 Generasi kedua atau 2-G muncul pada tahun 1990-an. 2G di Amerika sudah menggunakan teknologi CDMA, sedangkan di Eropa menggunakan teknologi GSM. GSM menggunakan frekuensi standar 900 Mhz dan frekuensi 1800 Mhz. Dengan frekuensi tersebut, GSM memiliki kapasitas pelanggan yang lebih besar. Pada generasi 2G sinyal analog sudah diganti dengan sinyal digital. Penggunaan sinyal digital memperlengkapi telepon genggam dengan pesan suara, panggilan tunggu, dan SMS.
         
       section
@@ -110,46 +118,34 @@ html
           li Enhance Datarates for GSM Evolution (EDGE)
           li Wideband-CDMA
           li CDMA 2000
+      section
+        h4 Kelemahan & Kelebihan
         hr
-        h3.bullet Kelemahan
-        ul
-          li Biaya yang relatif lebih tinggi
-          li Kurangnya cakupan jaringan karena masih baru
-        hr  
-        h3.bullet Kelebihan
-        ul
-          li Mulai dimasukkannya Sistem Operasi (Symbian, Android dan Windows Mobile)
+        h42 Kelemahan
+        hr
+        Biaya yang relatif lebih tinggi
+        Kurangnya cakupan jaringan karena masih baru
+        hr
+        h42 Kelebihan
+        hr
+        Mulai dimasukkannya Sistem Operasi (Symbian, Android dan Windows Mobile)
       section
 
         h4 Panggilan dari telepon genggam ke telepon rumah
+        hr
         h3 Ketika melakukan panggilan dari ponsel ke telepon rumah biasa, panggilan tersebut akan berjalan-jalan di melalui antena nirkabel terdekat dan akan diubah oleh penghantar nirkabel' ke sistem telepon landline tradisional. Panggilan tersebut kemudian akan langsung diarahkan ke jaringan telepon tradisional dan ke orang yang menjadi tujuan panggilan.
       section
         h4 Panggilan Dari Ponsel ke Ponsel
+        hr
         h3 Ketika melakukan panggilan dari ini, panggilan akan dirutekan melalui jaringan landline kepada pengantar nirkabel penerima atau akan dirutekan dalam jaringan nirkabel' ke tempat sel terdekat dengan orang yang menjadi tujuan panggilan. Pada saat berbicara di ponsel, maka telepon genggam akan menangkap suara dan mengubah suara menjadi energi frekuensi radio (gelombang radio). 
       section
         h4 Cont...
+        hr
         h3 Gelombang radio akan berjalan melalui udara hingga menemukan penerima di stasiun dasar terdekat. Stasiun dasar kemudian akan mengirimkan panggilan tersebut melalui jaringan nirkabel hingga sampai pada orang yang menjadi tujuan telepon.
-
-	h4 Panggilan dari Ponsel ke Ponsel
-	h3 Ketika melakukan panggilan dari ini, panggilan akan dirutekan melalui jaringan landline kepada pengantar nirkabel penerima atau akan dirutekan dalam jaringan nirkabel' ke tempat sel terdekat dengan orang yang menjadi tujuan panggilan. Pada saat berbicara di ponsel, maka telepon genggam akan menangkap suara dan mengubah suara menjadi energi frekuensi radio (gelombang radio). Gelombang radio akan berjalan melalui udara hingga menemukan penerima di stasiun dasar terdekat. Stasiun dasar kemudian akan mengirimkan panggilan tersebut melalui jaringan nirkabel hingga sampai pada orang yang menjadi tujuan telepon.
-	
       section
-	h4 Panggilan jarak jauh
-	h3 Ketika melakukan panggilan terhadap seseorang yang berada di luar negara si pemanggil berada, panggilan ini tergolong panggilan internasional. Panggilan akan dirutekan pada pusat pertukaran jarak jauh, yang menyambungkan panggilan antar negara atau seluruh dunia melaui kabel fiber optic. 
-
-      section
-        h2.bullet Just the beginning...
+        h4 Panggilan jarak jauh
         hr
-        ul
-          li Edit <a href="http://jade-lang.com/">Jade</a> markup in <em>'src/index.jade'</em>
-          li Edit <a href="http://learnboost.github.io/stylus/">Stylus</a> styles in <em>'src/styles/main.styl'</em>
-          li Edit JavaScript in <em>'src/scripts/main.js'</em>
-        hr
-        ul
-          li
-            strong Enjoy! :)
-            a(href='http://twitter.com/markdalgleish')  -@markdalgleish
-
+        h3 Ketika melakukan panggilan terhadap seseorang yang berada di luar negara si pemanggil berada, panggilan ini tergolong panggilan internasional. Panggilan akan dirutekan pada pusat pertukaran jarak jauh, yang menyambungkan panggilan antar negara atau seluruh dunia melaui kabel fiber optic. 
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
     script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
